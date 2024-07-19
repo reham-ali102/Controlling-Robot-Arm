@@ -1,5 +1,4 @@
 # Controlling-Robot-Arm
-# Controlling-Robot-Arm
 This structured guide provides clear steps for setting up and controlling the robot arm using ROS, including running simulations and using MoveIt for kinematics.
 
 ### Step 1: Creating a ROS Workspace
